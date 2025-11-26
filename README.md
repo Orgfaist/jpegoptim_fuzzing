@@ -34,15 +34,8 @@ sudo apt install -y \
     llvm-18 llvm-18-dev clang-18 lld-18 \
     gcc g++
 
-Дерево каталогов для работы:
-~/ssdlfuzz/
-├── AFLplusplus/       # исходники и сборка AFL++
-├── jpegoptim/         # исходники и сборка jpegoptim
-├── in/                # входной корпус для фаззинга (JPEG-файлы)
-├── out/               # директория с результатами AFL++
-├── plots/             # графики, сгенерированные afl-plot
-├── maps/              # карты покрытия от afl-showmap
-└── coverage_html/     # HTML-отчёт покрытия от lcov/genhtml
+<img width="619" height="220" alt="Снимок экрана 2025-11-26 в 12 46 41" src="https://github.com/user-attachments/assets/4b96ef17-3129-4fed-a5f5-ae19a1bf4ca3" />
+
 
 3. Сборка AFL++
 Переход в каталог и сборка AFL++:
