@@ -162,5 +162,7 @@ for f in ../out/default/queue/id_*; do
         ../jpegoptim/jpegoptim "$f" >/dev/null 2>&1
 done
 
+<img width="671" height="827" alt="Снимок экрана 2025-11-26 в 13 26 40" src="https://github.com/user-attachments/assets/72d095a2-eb59-4974-8eaf-0001a1715614" />
+
 
 
